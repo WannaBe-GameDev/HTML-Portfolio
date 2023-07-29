@@ -1,0 +1,33 @@
+/* styles.css */
+
+body {
+    background-color: black;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
